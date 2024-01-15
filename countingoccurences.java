@@ -14,7 +14,7 @@ public class countingoccurences {
             if (temp == target) {
                 flag++;
             }
-            n = (int)(n/10);   
+            n = (int)(n/10);   // type casting n/10 to integer.
         }
         if (flag>0) {
             System.out.println("there are total "+flag+" occurences of "+target+" in "+given); 
