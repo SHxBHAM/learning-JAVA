@@ -8,6 +8,7 @@
 // String str2 = "shubham"
 // if(str1 == str2);
 // to tackle this problem we use .equals instead.
+//.equals only matches the value and is a safer way of executing this code
 
 import java.util.Scanner;
 
