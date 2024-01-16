@@ -18,7 +18,7 @@ public class Switchcases {
                 System.out.println("spelling dhang se likhle aur pehla character uppercase likh");
                 break; //not necessary if default is at end
         }
-        // we can also write the switch cases like this its way more cleaner
+        // we can also write the switch cases like this its way more cleaner in this syntax every case has a break condn we dont have to write it
         // switch (fruits){
         //     case "Mango" -> System.out.println("mango is a sweet yellow fruit also known as king of fruits");
         //     case "Apple" -> System.out.println("Apple is a sweet red fruit which is round in shape");
