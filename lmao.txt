@@ -1,0 +1,11 @@
+example 
+input array = {1,2,2,2,3,3,3,4,5}
+output1 = size of new arr = 5
+output2 = 1 2 3 4 5
+
+
+     *
+    ***
+   *****
+    ***
+     *
